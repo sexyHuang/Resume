@@ -6,7 +6,7 @@
 ### 自我评价
 
 **技术栈：**
-前端：TypeScript、React、Vue2.0/3.0、微信小程序（原生&Taro3.0）、Webpack、Rollup、Vite、SASS、LESS、CSS_IN_JS
+前端：TypeScript、React、Vue2.0/3.0、微信小程序（原生&Taro3.0）、Webpack、Rollup、Vite、SASS、LESS、CSS_IN_JS  
 服务端: NodeJs、Koa、MidWay、Mysql、MongoDB、NextJS
 
 ### 个人开源项目
