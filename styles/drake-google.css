@@ -25,7 +25,7 @@
   --text-line-height: 1.6; /*正文行间距*/
   --code-line-height: 1.6; /*代码块行间距*/
   --p-spacing: 0.8rem; /*段间距*/
-  --text-size: 14px;
+  --text-size: 16px;
   --text-color: #202124;
   --blur-text-color: #c8c8c8;
   --bg-color: #ffffff;
@@ -405,12 +405,10 @@ h6.md-focus:before {
 
 h1 {
   font-size: 2rem;
-  text-align: center;
   margin-top: 0;
 }
 
 h2 {
-  margin-top: 0;
   font-size: 1.8rem;
   margin-bottom: 1.5rem;
 }
