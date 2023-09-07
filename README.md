@@ -11,12 +11,12 @@
 
 ## 个人开源项目
 
-- **postcss-px2vp**  [https://github.com/sexyHuang/postcss-px2vp](https://github.com/sexyHuang/postcss-px2vp)​
-将 px 单位转换为视口单位的 (vw, vh, vmin, vmax) 的 PostCSS 插件
-- **hjy-sv**  [https://github.com/sexyHuang/-hjy-standard-version](https://github.com/sexyHuang/-hjy-standard-version)​
-定制化版本标准化工具（依赖 standard-version）
-- **canvas-sprite-ts** [https://github.com/sexyHuang/canvas-sprite-ts](https://github.com/sexyHuang/canvas-sprite-ts)
-Canvas 实现的帧动画库
+- **postcss-px2vp**  [https://github.com/sexyHuang/postcss-px2vp](https://github.com/sexyHuang/postcss-px2vp)​  
+    将 px 单位转换为视口单位的 (vw, vh, vmin, vmax) 的 PostCSS 插件
+- **hjy-sv**  [https://github.com/sexyHuang/-hjy-standard-version](https://github.com/sexyHuang/-hjy-standard-version)​  
+    定制化版本标准化工具（依赖 standard-version）
+- **canvas-sprite-ts** [https://github.com/sexyHuang/canvas-sprite-ts](https://github.com/sexyHuang/canvas-sprite-ts)  
+    Canvas 实现的帧动画库
 
 ## 工作经历
 
