@@ -16,7 +16,7 @@ jobs:
         with:
           input_dir: ./
           output_dir: pdfs
-          build_html: false
+          # build_html: false
           theme: ./typora-lark.css
       - uses: actions/upload-artifact@v3
         with:
