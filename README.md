@@ -18,6 +18,9 @@
 - **canvas-sprite-ts** [https://github.com/sexyHuang/canvas-sprite-ts](https://github.com/sexyHuang/canvas-sprite-ts)  
     Canvas 实现的帧动画库
 
+- **dumlj** [https://github.com/dumlj](https://github.com/dumlj)  
+  前端工具集合项目
+
 ## 工作经历
 
 ### 欢聚时代有限公司（高级前端开发，2022.4~2023.9）
