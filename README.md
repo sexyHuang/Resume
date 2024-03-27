@@ -42,8 +42,6 @@
 
 #### 负责运营平台作者方向的日常值班
 
-<div style="break-after: page; page-break-after: always;" ></div>
-
 ### 欢聚时代有限公司（高级前端开发，2022.4~2023.9）
 
 参与SHOPLINE物流业务的仓储产品 [OneWarehouse](https://www.onewarehouse.net/) 和运输产品 [OneShip](https://oneship.cn/) 的商家端和运营端的前端业务开发工作
@@ -67,8 +65,6 @@
 #### NoDelay - 研发流程管理系统
 
 主导建立物流研发流程管理系统，包含需求评审、UI介入、研发、测试、上线阶段所有流程的管理，通过OPENAPI能力串接各系统或提供能力给各系统使用，并通过数据分析，实时监控研发流程的进度，提高研发效率。
-
-<div style="break-after: page; page-break-after: always;" ></div>
 
 ### 深圳兔展智能科技有限公司（高级前端开发，2019.5~2022.4）
 
